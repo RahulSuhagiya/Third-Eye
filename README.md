@@ -1,1 +1,1 @@
-# Third-Eye
+Third eye for the blind is an innovation with the help of the multidiscipline subjects like computer science, electronics engineering and health science which helps the blind people to navigate with speed and confidence by detecting the nearby obstacles using the help of ultrasonic waves and notify them with a buzzer sound or vibration. When the sensor detects any object, it will notify the user by beep or vibration. Thus, this is an automated device. Thus, this device will be of a great use for the blinds and help them travel different places.
